@@ -1,0 +1,10 @@
+C:\Users\migue\source\repos\Ficha3\Ficha3\bin\Debug\Ficha3.exe.config
+C:\Users\migue\source\repos\Ficha3\Ficha3\bin\Debug\Ficha3.exe
+C:\Users\migue\source\repos\Ficha3\Ficha3\bin\Debug\Ficha3.pdb
+C:\Users\migue\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.Form1.resources
+C:\Users\migue\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.Properties.Resources.resources
+C:\Users\migue\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.exe
+C:\Users\migue\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.pdb
